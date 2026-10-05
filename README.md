@@ -1,13 +1,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning , Data Science , IOT**
-
-- 👨‍💻 All of my projects are available at [leocatofficial.com](leocatofficial.com)
-
-- 💬 Ask me about **React, vue and gsap**
-
 - 📫 How to reach me **leocatofficial190@gmail.com**
-
 - ⚡ Fun fact **I hate girls**
 
 <h3 align="left">Connect with me:</h3>
