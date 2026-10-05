@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Machine Learning , Data Science , IOT**
 - 📫 How to reach me **leocatofficial190@gmail.com**
